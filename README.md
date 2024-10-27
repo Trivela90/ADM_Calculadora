@@ -1,4 +1,4 @@
-# Atividade de ADM - BCC Unesp 2024 \
+# Atividade de ADM - BCC Unesp 2024
 ### Autor: Henrique Trivelato de Angelo
 
 A atividade consistia em criar uma calculadora e testá-la.
