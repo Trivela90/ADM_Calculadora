@@ -1,5 +1,5 @@
 # Author:
-#   Henrique Trivelato de Angelo
+#  Henrique Trivelato de Angelo
 
 def negativeCheck(number):
     if(number[0] == '-'):
