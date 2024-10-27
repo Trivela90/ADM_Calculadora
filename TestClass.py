@@ -45,13 +45,13 @@ class TestClass:
         resultado = calculadora(elemento_1, elemento_2, operation)
         assert resultado == 1
 
-    # Testando número negativo (Eh pra dar -8 -> logo dá erro)
+    # Testando número negativo
     def test_six(self):
         elemento_1 = -10
         elemento_2 = 2
         operation = "+"
         resultado = calculadora(elemento_1, elemento_2, operation)
-        assert resultado == 8
+        assert resultado == -8
 
     # Testando número decimal
     def test_seven(self):
