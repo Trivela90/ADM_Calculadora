@@ -1,3 +1,6 @@
+# Author:
+#   Henrique Trivelato de Angelo
+
 from calcula import calculadora
 
 class TestClass:
