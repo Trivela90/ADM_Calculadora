@@ -1,4 +1,5 @@
-# Author:
+# Authors:
+#  Eduardo Rodrigues
 #  Henrique Trivelato de Angelo
 
 def negativeCheck(number):
